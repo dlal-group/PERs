@@ -1,0 +1,510 @@
+Index	SOX9	Parazscore	Adj_bin_count	DM_adj_bin_count	Gene:Disease	fisher.p	or	ci1	ci2	adj.p	log.adj.p	fmpr	proxy	mpr.tag	ini	fin	size
+1	M_1	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+2	N_2	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+3	L_3	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+4	L_4	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+5	D_5	0.01	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+6	P_6	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+7	F_7	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+8	M_8	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+9	K_9	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+10	M_10	-0.89	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+11	T_11	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+12	D_12	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+13	E_13	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+14	Q_14	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+15	E_15	-0.89	6	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+16	K_16	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+17	G_17	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+18	L_18	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+19	S_19	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+20	G_20	-0.59	5	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+21	A_21	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+22	P_22	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+23	S_23	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+24	P_24	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+25	T_25	0.01	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+26	M_26	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+27	S_27	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+28	E_28	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+29	D_29	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+30	S_30	-0.89	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+31	A_31	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+32	G_32	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+33	S_33	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+34	P_34	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+35	C_35	-0.89	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+36	P_36	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+37	S_37	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+38	G_38	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+39	S_39	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+40	G_40	-0.29	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+41	S_41	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+42	D_42	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+43	T_43	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+44	E_44	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+45	N_45	-0.89	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+46	T_46	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+47	R_47	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+48	P_48	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+49	Q_49	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+50	E_50	-0.89	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+51	N_51	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+52	T_52	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+53	F_53	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+54	P_54	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+55	K_55	-0.89	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+56	G_56	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+57	E_57	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+58	P_58	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+59	D_59	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+60	L_60	-0.89	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+61	K_61	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+62	K_62	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+63	E_63	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+64	S_64	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+65	E_65	-0.89	5	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+66	E_66	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+67	D_67	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+68	K_68	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+69	F_69	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+70	P_70	-0.89	2	1	N/A	0.3830981242616	2.92394280965445	0.0981833709403625	Inf	1	0	Neutral	proxy	NA	0	0	0
+71	V_71	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+72	C_72	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+73	I_73	-0.89			SOX9:NA					NA	NA	Neutral	NA	NA	0	0	0
+74	R_74	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+75	E_75	-0.89	1	3	N/A	0.0106323567997624	18.6564093912946	1.98150106703547	Inf	1	0	Neutral	proxy	NA	0	0	0
+76	A_76	-0.89			SOX9:Acampomelic campomelic dysplasia,NA					NA	NA	Neutral	NA	NA	0	0	0
+77	V_77	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+78	S_78	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+79	Q_79	-0.89			SOX9:NA					NA	NA	Neutral	NA	NA	0	0	0
+80	V_80	-0.89	0	3	SOX9:NA	0.00295683697745554	Inf	3.51359859688359	Inf	0.29864053472301	-0.524851245466414	Neutral	proxy	NA	0	0	0
+81	L_81	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+82	K_82	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+83	G_83	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+84	Y_84	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+85	D_85	-0.89	1	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+86	W_86	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+87	T_87	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+88	L_88	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+89	V_89	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+90	P_90	-0.59	1	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+91	M_91	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+92	P_92	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+93	V_93	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+94	R_94	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+95	V_95	0.01	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+96	N_96	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+97	G_97	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+98	S_98	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+99	S_99	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+100	K_100	0.31	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+101	N_101	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+102	K_102	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+103	P_103	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+104	H_104	1.51			N/A					NA	NA	Neutral	NA	NA	0	0	0
+105	V_105	1.81	1	2	N/A	0.0578225897813527	12.0290600276276	0.914262197576329	Inf	1	0	Neutral	proxy	NA	0	0	0
+106	K_106	1.81			SOX9:NA	5.18659335963433e-05	Inf	7.8253274052419	Inf	0.00523845929323067	-2.28079642653488	PER	NA	NA	0	0	0
+107	R_107	2.4			N/A	5.18659335963433e-05	Inf	7.8253274052419	Inf	0.00523845929323067	-2.28079642653488	PER	NA	NA	0	0	0
+108	P_108	2.4			SOX9:NA	5.18659335963433e-05	Inf	7.8253274052419	Inf	0.00523845929323067	-2.28079642653488	PER	NA	NA	0	0	0
+109	M_109	2.4			N/A	5.18659335963433e-05	Inf	7.8253274052419	Inf	0.00523845929323067	-2.28079642653488	PER	NA	NA	0	0	0
+110	N_110	2.4	0	5	N/A	5.18659335963433e-05	Inf	7.8253274052419	Inf	0.00523845929323067	-2.28079642653488	PER	proxy-tag	PER1	106	119	14
+111	A_111	2.4			SOX9:Inborn genetic diseases	0.000398330370019917	Inf	5.57039611745582	Inf	0.0402313673720116	-1.39543520650337	PER	NA	NA	0	0	0
+112	F_112	2.4			SOX9:NA,NA	0.000398330370019917	Inf	5.57039611745582	Inf	0.0402313673720116	-1.39543520650337	PER	NA	NA	0	0	0
+113	M_113	2.4			SOX9:NA,NA	0.000398330370019917	Inf	5.57039611745582	Inf	0.0402313673720116	-1.39543520650337	PER	NA	NA	0	0	0
+114	V_114	2.4			N/A	0.000398330370019917	Inf	5.57039611745582	Inf	0.0402313673720116	-1.39543520650337	PER	NA	NA	0	0	0
+115	W_115	2.4	0	4	N/A	0.000398330370019917	Inf	5.57039611745582	Inf	0.0402313673720116	-1.39543520650337	PER	proxy-tag	NA	0	0	0
+116	A_116	1.51			N/A	0.000398330370019917	Inf	5.57039611745582	Inf	0.0402313673720116	-1.39543520650337	PER	NA	NA	0	0	0
+117	Q_117	1.21			N/A	0.000398330370019917	Inf	5.57039611745582	Inf	0.0402313673720116	-1.39543520650337	PER	NA	NA	0	0	0
+118	A_118	0.01			N/A	0.000398330370019917	Inf	5.57039611745582	Inf	0.0402313673720116	-1.39543520650337	PER	NA	NA	0	0	0
+119	A_119	0.31			SOX9:NA	0.000398330370019917	Inf	5.57039611745582	Inf	0.0402313673720116	-1.39543520650337	PER	NA	NA	0	0	0
+120	R_120	2.4	0	2	SOX9:NA	0.0212454212454213	Inf	1.69058743608782	Inf	1	0	Neutral	proxy	NA	0	0	0
+121	R_121	1.81			N/A					NA	NA	Neutral	NA	NA	0	0	0
+122	K_122	1.81			N/A					NA	NA	Neutral	NA	NA	0	0	0
+123	L_123	1.81			N/A					NA	NA	Neutral	NA	NA	0	0	0
+124	A_124	1.51			N/A					NA	NA	Neutral	NA	NA	0	0	0
+125	D_125	0.31	0	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+126	Q_126	1.51			N/A					NA	NA	Neutral	NA	NA	0	0	0
+127	Y_127	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+128	P_128	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+129	H_129	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+130	L_130	1.81	0	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+131	H_131	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+132	N_132	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+133	A_133	1.51			N/A					NA	NA	Neutral	NA	NA	0	0	0
+134	E_134	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+135	L_135	2.1	0	1	N/A	0.147959183673469	Inf	0.303084798678505	Inf	1	0	Neutral	proxy	NA	0	0	0
+136	S_136	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+137	K_137	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+138	T_138	0.61			SOX9:not provided					NA	NA	Neutral	NA	NA	0	0	0
+139	L_139	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+140	G_140	2.4	0	2	N/A	0.0212454212454213	Inf	1.69058743608782	Inf	1	0	Neutral	proxy	NA	0	0	0
+141	K_141	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+142	L_142	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+143	W_143	2.4			SOX9:NA,not provided					NA	NA	Neutral	NA	NA	0	0	0
+144	R_144	1.81			N/A					NA	NA	Neutral	NA	NA	0	0	0
+145	L_145	1.21	1	1	N/A	0.274672946101517	5.84301643020685	0.14877908904827	Inf	1	0	Neutral	proxy	NA	0	0	0
+146	L_146	1.81			N/A					NA	NA	Neutral	NA	NA	0	0	0
+147	N_147	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+148	E_148	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+149	S_149	1.51			N/A					NA	NA	Neutral	NA	NA	0	0	0
+150	E_150	1.21	1	2	N/A	0.0578225897813527	12.0290600276276	0.914262197576329	Inf	1	0	Neutral	proxy	NA	0	0	0
+151	K_151	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+152	R_152	0.61			SOX9:NA					NA	NA	Neutral	NA	NA	0	0	0
+153	P_153	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+154	F_154	1.81			SOX9:Camptomelic dysplasia,NA					NA	NA	Neutral	NA	NA	0	0	0
+155	V_155	1.81	0	3	N/A	0.00295683697745554	Inf	3.51359859688359	Inf	0.29864053472301	-0.524851245466414	Neutral	proxy	NA	0	0	0
+156	E_156	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+157	E_157	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+158	A_158	2.4			SOX9:Campomelic dysplasia with autosomal sex reversal,NA,NA					NA	NA	Neutral	NA	NA	0	0	0
+159	E_159	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+160	R_160	2.4	2	3	SOX9:not provided	0.0239046098258347	9.33412761666741	1.38990137695479	Inf	1	0	Neutral	proxy	NA	0	0	0
+161	L_161	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+162	R_162	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+163	V_163	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+164	Q_164	0.61			SOX9:Camptomelic dysplasia					NA	NA	Neutral	NA	NA	0	0	0
+165	H_165	2.4	2	3	SOX9:Acampomelic campomelic dysplasia,NA,NA,NA	0.0239046098258347	9.33412761666741	1.38990137695479	Inf	1	0	Neutral	proxy	NA	0	0	0
+166	K_166	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+167	K_167	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+168	D_168	1.81			N/A					NA	NA	Neutral	NA	NA	0	0	0
+169	H_169	1.51			SOX9:NA,NA					NA	NA	Neutral	NA	NA	0	0	0
+170	P_170	2.4	1	4	SOX9:Camptomelic dysplasia,NA,not provided,NA,NA	0.00178418811571421	25.7750383094292	3.21336781793823	Inf	0.180202999687135	-0.744237983963352	Neutral	proxy	NA	0	0	0
+171	D_171	1.51			N/A					NA	NA	Neutral	NA	NA	0	0	0
+172	Y_172	2.4			SOX9:Camptomelic dysplasia					NA	NA	Neutral	NA	NA	0	0	0
+173	K_173	2.4			SOX9:Acampomelic campomelic dysplasia,NA					NA	NA	Neutral	NA	NA	0	0	0
+174	Y_174	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+175	Q_175	1.51	1	4	N/A	0.00178418811571421	25.7750383094292	3.21336781793823	Inf	0.180202999687135	-0.744237983963352	Neutral	proxy	NA	0	0	0
+176	P_176	2.4			SOX9:not provided,not provided,NA					NA	NA	Neutral	NA	NA	0	0	0
+177	R_177	2.4			N/A					NA	NA	Neutral	NA	NA	0	0	0
+178	R_178	1.81			SOX9:NA					NA	NA	Neutral	NA	NA	0	0	0
+179	R_179	1.81			N/A					NA	NA	Neutral	NA	NA	0	0	0
+180	K_180	-0.89	3	2	N/A	0.159084964721015	4.00683252862724	0.477899088438681	Inf	1	0	Neutral	proxy	NA	0	0	0
+181	S_181	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+182	V_182	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+183	K_183	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+184	N_184	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+185	G_185	0.61	5	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+186	Q_186	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+187	A_187	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+188	E_188	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+189	A_189	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+190	E_190	-0.89	6	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+191	E_191	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+192	A_192	2.1			N/A					NA	NA	Neutral	NA	NA	0	0	0
+193	T_193	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+194	E_194	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+195	Q_195	-0.29	9	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+196	T_196	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+197	H_197	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+198	I_198	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+199	S_199	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+200	P_200	-0.29	8	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+201	N_201	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+202	A_202	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+203	I_203	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+204	F_204	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+205	K_205	0.31	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+206	A_206	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+207	L_207	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+208	Q_208	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+209	A_209	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+210	D_210	-0.89	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+211	S_211	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+212	P_212	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+213	H_213	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+214	S_214	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+215	S_215	-0.89	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+216	S_216	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+217	G_217	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+218	M_218	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+219	S_219	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+220	E_220	0.01	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+221	V_221	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+222	H_222	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+223	S_223	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+224	P_224	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+225	G_225	0.01	6	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+226	E_226	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+227	H_227	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+228	S_228	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+229	G_229	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+230	Q_230	0.61	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+231	S_231	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+232	Q_232	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+233	G_233	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+234	P_234	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+235	P_235	1.21	1	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+236	T_236	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+237	P_237	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+238	P_238	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+239	T_239	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+240	T_240	0.31	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+241	P_241	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+242	K_242	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+243	T_243	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+244	D_244	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+245	V_245	-0.89	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+246	Q_246	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+247	P_247	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+248	G_248	1.51			N/A					NA	NA	Neutral	NA	NA	0	0	0
+249	K_249	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+250	A_250	2.1	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+251	D_251	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+252	L_252	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+253	K_253	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+254	R_254	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+255	E_255	-0.89	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+256	G_256	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+257	R_257	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+258	P_258	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+259	L_259	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+260	P_260	0.61	6	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+261	E_261	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+262	G_262	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+263	G_263	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+264	R_264	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+265	Q_265	-0.89	6	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+266	P_266	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+267	P_267	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+268	I_268	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+269	D_269	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+270	F_270	0.31	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+271	R_271	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+272	D_272	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+273	V_273	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+274	D_274	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+275	I_275	0.01	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+276	G_276	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+277	E_277	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+278	L_278	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+279	S_279	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+280	S_280	-0.29	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+281	D_281	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+282	V_282	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+283	I_283	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+284	S_284	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+285	N_285	-0.59	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+286	I_286	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+287	E_287	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+288	T_288	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+289	F_289	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+290	D_290	0.31	6	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+291	V_291	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+292	N_292	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+293	E_293	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+294	F_294	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+295	D_295	-0.29	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+296	Q_296	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+297	Y_297	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+298	L_298	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+299	P_299	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+300	P_300	-0.89	5	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+301	N_301	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+302	G_302	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+303	H_303	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+304	P_304	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+305	G_305	-0.29	7	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+306	V_306	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+307	P_307	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+308	A_308	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+309	T_309	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+310	H_310	-0.89	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+311	G_311	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+312	Q_312	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+313	V_313	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+314	T_314	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+315	Y_315	-0.89	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+316	T_316	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+317	G_317	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+318	S_318	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+319	Y_319	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+320	G_320	-0.29	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+321	I_321	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+322	S_322	1.51			N/A					NA	NA	Neutral	NA	NA	0	0	0
+323	S_323	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+324	T_324	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+325	A_325	-0.59	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+326	A_326	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+327	T_327	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+328	P_328	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+329	A_329	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+330	S_330	0.31	5	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+331	A_331	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+332	G_332	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+333	H_333	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+334	V_334	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+335	W_335	-0.89	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+336	M_336	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+337	S_337	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+338	K_338	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+339	Q_339	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+340	Q_340	-0.89	1	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+341	A_341	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+342	P_342	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+343	P_343	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+344	P_344	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+345	P_345	0.31	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+346	P_346	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+347	Q_347	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+348	Q_348	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+349	P_349	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+350	P_350	-0.29	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+351	Q_351	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+352	A_352	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+353	P_353	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+354	P_354	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+355	A_355	0.31	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+356	P_356	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+357	Q_357	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+358	A_358	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+359	P_359	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+360	P_360	-0.59	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+361	Q_361	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+362	P_362	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+363	Q_363	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+364	A_364	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+365	A_365	-0.89	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+366	P_366	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+367	P_367	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+368	Q_368	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+369	Q_369	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+370	P_370	-0.89	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+371	A_371	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+372	A_372	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+373	P_373	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+374	P_374	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+375	Q_375	-0.89	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+376	Q_376	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+377	P_377	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+378	Q_378	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+379	A_379	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+380	H_380	-0.89	1	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+381	T_381	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+382	L_382	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+383	T_383	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+384	T_384	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+385	L_385	-0.89	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+386	S_386	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+387	S_387	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+388	E_388	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+389	P_389	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+390	G_390	-0.89	5	1	N/A	0.622540245774514	1.15620806122617	0.0480010511530954	Inf	1	0	Neutral	proxy	NA	0	0	0
+391	Q_391	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+392	S_392	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+393	Q_393	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+394	R_394	-0.89			SOX9:NA					NA	NA	Neutral	NA	NA	0	0	0
+395	T_395	-0.89	4	1	N/A	0.554970289771187	1.45220807754053	0.0580046503026452	Inf	1	0	Neutral	proxy	NA	0	0	0
+396	H_396	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+397	I_397	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+398	K_398	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+399	T_399	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+400	E_400	-0.89	1	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+401	Q_401	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+402	L_402	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+403	S_403	1.51			N/A					NA	NA	Neutral	NA	NA	0	0	0
+404	P_404	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+405	S_405	0.01	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+406	H_406	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+407	Y_407	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+408	S_408	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+409	E_409	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+410	Q_410	0.31	6	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+411	Q_411	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+412	Q_412	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+413	H_413	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+414	S_414	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+415	P_415	-0.89	5	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+416	Q_416	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+417	Q_417	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+418	I_418	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+419	A_419	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+420	Y_420	-0.89	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+421	S_421	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+422	P_422	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+423	F_423	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+424	N_424	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+425	L_425	0.31	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+426	P_426	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+427	H_427	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+428	Y_428	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+429	S_429	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+430	P_430	0.61	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+431	S_431	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+432	Y_432	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+433	P_433	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+434	P_434	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+435	I_435	0.31	2	1	N/A	0.3830981242616	2.92394280965445	0.0981833709403625	Inf	1	0	Neutral	proxy	NA	0	0	0
+436	T_436	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+437	R_437	0.01			SOX9:NA					NA	NA	Neutral	NA	NA	0	0	0
+438	S_438	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+439	Q_439	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+440	Y_440	-0.29	3	1	N/A	0.475793224761152	1.94423788627223	0.0730407967771439	Inf	1	0	Neutral	proxy	NA	0	0	0
+441	D_441	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+442	Y_442	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+443	T_443	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+444	D_444	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+445	H_445	-0.59	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+446	Q_446	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+447	N_447	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+448	S_448	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+449	S_449	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+450	S_450	0.01	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+451	Y_451	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+452	Y_452	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+453	S_453	1.51			N/A					NA	NA	Neutral	NA	NA	0	0	0
+454	H_454	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+455	A_455	-0.89	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+456	A_456	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+457	G_457	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+458	Q_458	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+459	G_459	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+460	T_460	-0.29	3	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+461	G_461	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+462	L_462	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+463	Y_463	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+464	S_464	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+465	T_465	-0.59	4	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+466	F_466	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+467	T_467	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+468	Y_468	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+469	M_469	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+470	N_470	-0.89	4	1	N/A	0.554970289771187	1.45220807754053	0.0580046503026452	Inf	1	0	Neutral	proxy	NA	0	0	0
+471	P_471	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+472	A_472	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+473	Q_473	0.31			SOX9:not provided					NA	NA	Neutral	NA	NA	0	0	0
+474	R_474	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+475	P_475	-0.29	2	2	N/A	0.105012822762943	6.02104572049336	0.628235797345009	Inf	1	0	Neutral	proxy	NA	0	0	0
+476	M_476	0.61			SOX9:Camptomelic dysplasia					NA	NA	Neutral	NA	NA	0	0	0
+477	Y_477	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+478	T_478	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+479	P_479	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+480	I_480	0.31	2	1	N/A	0.3830981242616	2.92394280965445	0.0981833709403625	Inf	1	0	Neutral	proxy	NA	0	0	0
+481	A_481	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+482	D_482	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
+483	T_483	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+484	S_484	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+485	G_485	-0.89	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+486	V_486	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+487	P_487	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+488	S_488	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+489	I_489	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+490	P_490	0.91	1	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+491	Q_491	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+492	T_492	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+493	H_493	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+494	S_494	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+495	P_495	0.61	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+496	Q_496	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+497	H_497	-0.29			N/A					NA	NA	Neutral	NA	NA	0	0	0
+498	W_498	0.61			N/A					NA	NA	Neutral	NA	NA	0	0	0
+499	E_499	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+500	Q_500	0.31	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+501	P_501	0.91			N/A					NA	NA	Neutral	NA	NA	0	0	0
+502	V_502	0.01			N/A					NA	NA	Neutral	NA	NA	0	0	0
+503	Y_503	1.21			N/A					NA	NA	Neutral	NA	NA	0	0	0
+504	T_504	0.31			N/A					NA	NA	Neutral	NA	NA	0	0	0
+505	Q_505	0.61	2	0	N/A	1	0	0	Inf	1	0	Neutral	proxy	NA	0	0	0
+506	L_506	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+507	T_507	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+508	R_508	-0.89			N/A					NA	NA	Neutral	NA	NA	0	0	0
+509	P_509	-0.59			N/A					NA	NA	Neutral	NA	NA	0	0	0
